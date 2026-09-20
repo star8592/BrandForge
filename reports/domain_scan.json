@@ -1,0 +1,804 @@
+[
+  {
+    "name": "forgevia",
+    "score": 46.8,
+    "brandability": 32.8,
+    "ai_fit": 0.0,
+    "industrial_fit": 14.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "ai": "AVAILABLE",
+      "dev": "AVAILABLE",
+      "software": "AVAILABLE",
+      "systems": "AVAILABLE",
+      "app": "AVAILABLE",
+      "tech": "AVAILABLE",
+      "cloud": "AVAILABLE"
+    },
+    "available_tlds": [
+      "ai",
+      "dev",
+      "software",
+      "systems",
+      "app",
+      "tech",
+      "cloud"
+    ],
+    "availability_bonus": 60,
+    "final_score": 106.8
+  },
+  {
+    "name": "axivra",
+    "score": 53.0,
+    "brandability": 30.0,
+    "ai_fit": 14.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 6.0,
+    "breadth_bonus": 3.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "ai": "REGISTERED",
+      "dev": "AVAILABLE",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "app": "AVAILABLE",
+      "tech": "AVAILABLE",
+      "cloud": "AVAILABLE"
+    },
+    "available_tlds": [
+      "dev",
+      "systems",
+      "software",
+      "app",
+      "tech",
+      "cloud"
+    ],
+    "availability_bonus": 46,
+    "final_score": 99.0
+  },
+  {
+    "name": "quantivo",
+    "score": 42.0,
+    "brandability": 30.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 12.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "ai": "REGISTERED",
+      "dev": "AVAILABLE",
+      "systems": "AVAILABLE",
+      "app": "AVAILABLE",
+      "software": "AVAILABLE",
+      "tech": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "dev",
+      "systems",
+      "app",
+      "software"
+    ],
+    "availability_bonus": 31,
+    "final_score": 73.0
+  },
+  {
+    "name": "coryva",
+    "score": 30.0,
+    "brandability": 30.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "AVAILABLE",
+      "com": "REGISTERED",
+      "dev": "UNKNOWN",
+      "software": "AVAILABLE",
+      "systems": "AVAILABLE",
+      "tech": "AVAILABLE",
+      "app": "UNKNOWN",
+      "cloud": "AVAILABLE"
+    },
+    "available_tlds": [
+      "ai",
+      "software",
+      "systems",
+      "tech",
+      "cloud"
+    ],
+    "availability_bonus": 41,
+    "final_score": 71.0
+  },
+  {
+    "name": "aevian",
+    "score": 25.0,
+    "brandability": 25.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "REGISTERED",
+      "com": "REGISTERED",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "dev": "AVAILABLE",
+      "app": "AVAILABLE",
+      "tech": "AVAILABLE",
+      "cloud": "AVAILABLE"
+    },
+    "available_tlds": [
+      "systems",
+      "software",
+      "dev",
+      "app",
+      "tech",
+      "cloud"
+    ],
+    "availability_bonus": 46,
+    "final_score": 71.0
+  },
+  {
+    "name": "synora",
+    "score": 54.0,
+    "brandability": 34.0,
+    "ai_fit": 20.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "REGISTERED",
+      "com": "REGISTERED",
+      "dev": "REGISTERED",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "app": "REGISTERED",
+      "tech": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "systems",
+      "software"
+    ],
+    "availability_bonus": 12,
+    "final_score": 66.0
+  },
+  {
+    "name": "corevia",
+    "score": 57.0,
+    "brandability": 32.8,
+    "ai_fit": 10.0,
+    "industrial_fit": 11.2,
+    "quant_fit": 0.0,
+    "breadth_bonus": 3.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "software": "AVAILABLE",
+      "ai": "REGISTERED",
+      "systems": "REGISTERED",
+      "dev": "REGISTERED",
+      "com": "REGISTERED",
+      "app": "REGISTERED",
+      "tech": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "software"
+    ],
+    "availability_bonus": 6,
+    "final_score": 63.0
+  },
+  {
+    "name": "arvora",
+    "score": 34.0,
+    "brandability": 34.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "REGISTERED",
+      "com": "REGISTERED",
+      "software": "AVAILABLE",
+      "dev": "UNKNOWN",
+      "systems": "AVAILABLE",
+      "app": "UNKNOWN",
+      "cloud": "AVAILABLE",
+      "tech": "AVAILABLE"
+    },
+    "available_tlds": [
+      "software",
+      "systems",
+      "cloud",
+      "tech"
+    ],
+    "availability_bonus": 27,
+    "final_score": 61.0
+  },
+  {
+    "name": "cogniva",
+    "score": 48.0,
+    "brandability": 30.0,
+    "ai_fit": 18.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "ai": "REGISTERED",
+      "dev": "REGISTERED",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "app": "REGISTERED",
+      "tech": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "systems",
+      "software"
+    ],
+    "availability_bonus": 12,
+    "final_score": 60.0
+  },
+  {
+    "name": "zynera",
+    "score": 30.0,
+    "brandability": 30.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "ai": "REGISTERED",
+      "systems": "AVAILABLE",
+      "dev": "AVAILABLE",
+      "software": "AVAILABLE",
+      "tech": "AVAILABLE",
+      "app": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "systems",
+      "dev",
+      "software",
+      "tech"
+    ],
+    "availability_bonus": 30,
+    "final_score": 60.0
+  },
+  {
+    "name": "neurava",
+    "score": 30.0,
+    "brandability": 30.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "REGISTERED",
+      "dev": "AVAILABLE",
+      "com": "REGISTERED",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "app": "REGISTERED",
+      "tech": "REGISTERED",
+      "cloud": "AVAILABLE"
+    },
+    "available_tlds": [
+      "dev",
+      "systems",
+      "software",
+      "cloud"
+    ],
+    "availability_bonus": 29,
+    "final_score": 59.0
+  },
+  {
+    "name": "arvexa",
+    "score": 30.0,
+    "brandability": 30.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "ai": "REGISTERED",
+      "dev": "UNKNOWN",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "app": "UNKNOWN",
+      "tech": "AVAILABLE",
+      "cloud": "AVAILABLE"
+    },
+    "available_tlds": [
+      "systems",
+      "software",
+      "tech",
+      "cloud"
+    ],
+    "availability_bonus": 27,
+    "final_score": 57.0
+  },
+  {
+    "name": "synera",
+    "score": 50.0,
+    "brandability": 30.0,
+    "ai_fit": 20.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "ai": "REGISTERED",
+      "dev": "REGISTERED",
+      "systems": "REGISTERED",
+      "software": "AVAILABLE",
+      "app": "REGISTERED",
+      "cloud": "REGISTERED",
+      "tech": "REGISTERED"
+    },
+    "available_tlds": [
+      "software"
+    ],
+    "availability_bonus": 6,
+    "final_score": 56.0
+  },
+  {
+    "name": "elyora",
+    "score": 29.0,
+    "brandability": 29.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "REGISTERED",
+      "com": "REGISTERED",
+      "systems": "AVAILABLE",
+      "dev": "UNKNOWN",
+      "software": "AVAILABLE",
+      "app": "UNKNOWN",
+      "tech": "AVAILABLE",
+      "cloud": "AVAILABLE"
+    },
+    "available_tlds": [
+      "systems",
+      "software",
+      "tech",
+      "cloud"
+    ],
+    "availability_bonus": 27,
+    "final_score": 56.0
+  },
+  {
+    "name": "elyvia",
+    "score": 27.8,
+    "brandability": 27.8,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "REGISTERED",
+      "com": "REGISTERED",
+      "dev": "UNKNOWN",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "app": "UNKNOWN",
+      "tech": "AVAILABLE",
+      "cloud": "AVAILABLE"
+    },
+    "available_tlds": [
+      "systems",
+      "software",
+      "tech",
+      "cloud"
+    ],
+    "availability_bonus": 27,
+    "final_score": 54.8
+  },
+  {
+    "name": "nexivo",
+    "score": 42.0,
+    "brandability": 30.0,
+    "ai_fit": 12.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "REGISTERED",
+      "com": "REGISTERED",
+      "dev": "REGISTERED",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "app": "UNKNOWN",
+      "tech": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "systems",
+      "software"
+    ],
+    "availability_bonus": 12,
+    "final_score": 54.0
+  },
+  {
+    "name": "axiora",
+    "score": 52.0,
+    "brandability": 29.0,
+    "ai_fit": 14.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 6.0,
+    "breadth_bonus": 3.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "dev": "REGISTERED",
+      "ai": "REGISTERED",
+      "systems": "REGISTERED",
+      "software": "REGISTERED",
+      "app": "REGISTERED",
+      "tech": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [],
+    "availability_bonus": 0,
+    "final_score": 52.0
+  },
+  {
+    "name": "novyra",
+    "score": 30.0,
+    "brandability": 30.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "REGISTERED",
+      "dev": "AVAILABLE",
+      "com": "REGISTERED",
+      "software": "AVAILABLE",
+      "app": "REGISTERED",
+      "systems": "AVAILABLE",
+      "tech": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "dev",
+      "software",
+      "systems"
+    ],
+    "availability_bonus": 22,
+    "final_score": 52.0
+  },
+  {
+    "name": "veyora",
+    "score": 29.0,
+    "brandability": 29.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "ai": "REGISTERED",
+      "dev": "UNKNOWN",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "app": "UNKNOWN",
+      "tech": "REGISTERED",
+      "cloud": "AVAILABLE"
+    },
+    "available_tlds": [
+      "systems",
+      "software",
+      "cloud"
+    ],
+    "availability_bonus": 19,
+    "final_score": 48.0
+  },
+  {
+    "name": "tensora",
+    "score": 34.0,
+    "brandability": 34.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "ai": "REGISTERED",
+      "systems": "AVAILABLE",
+      "dev": "UNKNOWN",
+      "software": "AVAILABLE",
+      "app": "UNKNOWN",
+      "cloud": "REGISTERED",
+      "tech": "REGISTERED"
+    },
+    "available_tlds": [
+      "systems",
+      "software"
+    ],
+    "availability_bonus": 12,
+    "final_score": 46.0
+  },
+  {
+    "name": "fluxora",
+    "score": 34.0,
+    "brandability": 34.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "REGISTERED",
+      "dev": "UNKNOWN",
+      "com": "REGISTERED",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "app": "UNKNOWN",
+      "tech": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "systems",
+      "software"
+    ],
+    "availability_bonus": 12,
+    "final_score": 46.0
+  },
+  {
+    "name": "kinora",
+    "score": 34.0,
+    "brandability": 34.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "ai": "REGISTERED",
+      "dev": "UNKNOWN",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "tech": "REGISTERED",
+      "app": "UNKNOWN",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "systems",
+      "software"
+    ],
+    "availability_bonus": 12,
+    "final_score": 46.0
+  },
+  {
+    "name": "zenora",
+    "score": 34.0,
+    "brandability": 34.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "ai": "REGISTERED",
+      "systems": "AVAILABLE",
+      "dev": "UNKNOWN",
+      "software": "AVAILABLE",
+      "app": "UNKNOWN",
+      "tech": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "systems",
+      "software"
+    ],
+    "availability_bonus": 12,
+    "final_score": 46.0
+  },
+  {
+    "name": "nexara",
+    "score": 45.2,
+    "brandability": 33.2,
+    "ai_fit": 12.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "REGISTERED",
+      "com": "REGISTERED",
+      "dev": "REGISTERED",
+      "software": "REGISTERED",
+      "systems": "REGISTERED",
+      "app": "REGISTERED",
+      "tech": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [],
+    "availability_bonus": 0,
+    "final_score": 45.2
+  },
+  {
+    "name": "vectara",
+    "score": 33.2,
+    "brandability": 33.2,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "REGISTERED",
+      "com": "REGISTERED",
+      "dev": "UNKNOWN",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "app": "UNKNOWN",
+      "cloud": "REGISTERED",
+      "tech": "REGISTERED"
+    },
+    "available_tlds": [
+      "systems",
+      "software"
+    ],
+    "availability_bonus": 12,
+    "final_score": 45.2
+  },
+  {
+    "name": "orvexa",
+    "score": 30.0,
+    "brandability": 30.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "REGISTERED",
+      "com": "REGISTERED",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "dev": "REGISTERED",
+      "tech": "REGISTERED",
+      "app": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "systems",
+      "software"
+    ],
+    "availability_bonus": 12,
+    "final_score": 42.0
+  },
+  {
+    "name": "orvian",
+    "score": 30.0,
+    "brandability": 30.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "ai": "REGISTERED",
+      "dev": "REGISTERED",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "app": "REGISTERED",
+      "tech": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "systems",
+      "software"
+    ],
+    "availability_bonus": 12,
+    "final_score": 42.0
+  },
+  {
+    "name": "velyra",
+    "score": 30.0,
+    "brandability": 30.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "ai": "REGISTERED",
+      "com": "REGISTERED",
+      "dev": "UNKNOWN",
+      "systems": "AVAILABLE",
+      "software": "AVAILABLE",
+      "app": "UNKNOWN",
+      "cloud": "REGISTERED",
+      "tech": "REGISTERED"
+    },
+    "available_tlds": [
+      "systems",
+      "software"
+    ],
+    "availability_bonus": 12,
+    "final_score": 42.0
+  },
+  {
+    "name": "veyron",
+    "score": 32.0,
+    "brandability": 32.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "ai": "REGISTERED",
+      "dev": "UNKNOWN",
+      "systems": "AVAILABLE",
+      "software": "REGISTERED",
+      "tech": "REGISTERED",
+      "app": "UNKNOWN",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "systems"
+    ],
+    "availability_bonus": 6,
+    "final_score": 38.0
+  },
+  {
+    "name": "aevora",
+    "score": 29.0,
+    "brandability": 29.0,
+    "ai_fit": 0.0,
+    "industrial_fit": 0.0,
+    "quant_fit": 0.0,
+    "breadth_bonus": 0.0,
+    "collision_penalty": 0.0,
+    "domains": {
+      "com": "REGISTERED",
+      "dev": "UNKNOWN",
+      "ai": "REGISTERED",
+      "systems": "REGISTERED",
+      "software": "AVAILABLE",
+      "app": "UNKNOWN",
+      "tech": "REGISTERED",
+      "cloud": "REGISTERED"
+    },
+    "available_tlds": [
+      "software"
+    ],
+    "availability_bonus": 6,
+    "final_score": 35.0
+  }
+]
