@@ -1,29 +1,28 @@
 """BrandForge v1.0 MVP pipeline entry.
 
-This module intentionally keeps the pipeline small:
+Minimal runnable pipeline:
 1. generate candidates
 2. score candidates
-3. prepare ranking output
-
-External checks can be plugged in later without changing the core flow.
+3. export ranking output
 """
 
 from pathlib import Path
 import json
 
-from candidate_generator import generate_candidates
+from candidate_generator import generate
 from scorer import score_candidate
 
 
 OUTPUT = Path("reports")
 
 
-def run(limit=100):
+def run(limit=1000):
     OUTPUT.mkdir(exist_ok=True)
-    candidates = generate_candidates()
+
+    candidates = generate(limit=limit)
     ranked = []
 
-    for name in candidates[:limit]:
+    for name in candidates:
         ranked.append({
             "name": name,
             "score": score_candidate(name)
@@ -41,4 +40,5 @@ def run(limit=100):
 
 
 if __name__ == "__main__":
-    print(run())
+    for item in run():
+        print(item)
